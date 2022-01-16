@@ -1,3 +1,5 @@
+## Great package of 1D canopy radiative transfer schemes in Python 3.x by Zachary Moon (Penn State Univ.; https://personal.psu.edu/zlm1/)
+
 # crt1d
 
 Testbed/framework for 1-D canopy radiative transfer schemes.
